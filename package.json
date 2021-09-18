@@ -1,6 +1,6 @@
 {
   "name": "alfred-transform-quotemark",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Transform all quotemarks to other quotemarks through Alfred",
   "license": "MIT",
   "repository": "jopemachine/alfred-transform-quotemark",
